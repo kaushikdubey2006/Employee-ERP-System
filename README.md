@@ -9,13 +9,13 @@ When the employee moves to a new company, the next employer gets read-only acces
 
 The platform reduces:
 
-Document delays
+-Document delays
 
-Manual HR verification calls
+-Manual HR verification calls
 
-Fake experience issues
+-Fake experience issues
 
-Stress faced by employees during job changes
+-Stress faced by employees during job changes
 
 Overall, it works like a digital employment passport + ERP system, benefiting both companies and employees while ensuring privacy, transparency, and compliance.
 
