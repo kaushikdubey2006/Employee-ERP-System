@@ -23,8 +23,13 @@ Here is the link of dashboard :- https://kaushikdubey2006.github.io/Employee-ERP
 
 Login details (for demo):
 Employee
+
 Username: employee@erp
+
 Password: employee_123
+
 Company
+
 Username: company@erp
+
 Password: company_123
