@@ -20,3 +20,11 @@ The platform reduces:
 Overall, it works like a digital employment passport + ERP system, benefiting both companies and employees while ensuring privacy, transparency, and compliance.
 
 Here is the link of dashboard :- https://kaushikdubey2006.github.io/Employee-ERP-System/
+
+Login details (for demo):
+Employee
+Username: employee@erp
+Password: employee_123
+Company
+Username: company@erp
+Password: company_123
